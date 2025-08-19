@@ -8,7 +8,7 @@ Each chapter is organized into a separate notebook with examples, explanations, 
 ## Contents  
 
 1. [Variables](python_seesion_1_variables.ipynb)  
-2. [Data Types](python_session_2_Data types.ipynb)  
+2. [Data Types](python_session_2_Datatypes.ipynb)  
 3. [Type Casting]  
 4. [Packages] 
 5. [Print Statement]  
