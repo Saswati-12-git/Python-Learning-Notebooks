@@ -7,23 +7,23 @@ Each chapter is organized into a separate notebook with examples, explanations, 
 
 ## Contents  
 
-1. [Variables](./Variables.ipynb)  
-2. [Data Types](./Data_Types.ipynb)  
-3. [Type Casting](./Type_Casting.ipynb)  
-4. [Packages](./Package.ipynb)  
-5. [Print Statement](./Print.ipynb)  
-6. [Input and Eval](./Input_Eval.ipynb)  
-7. [Q&A / Practice Problems](./Q&A.ipynb)  
-8. [If-Else Statements](./If_Else.ipynb)  
-9. [Try and Except (Error Handling)](./Try_Except.ipynb)  
-10. [Functions](./Functions.ipynb)  
-11. [For Loop](./For_Loop.ipynb)  
-12. [While Loop](./While_Loop.ipynb)  
-13. [Strings](./String.ipynb)  
-14. [Lists](./List.ipynb)  
-15. [Dictionaries](./Dictionary.ipynb)  
-16. [Lambda Functions](./Lambda_Function.ipynb)  
-17. [File Handling](./File_Handling.ipynb)  
+1. [Variables](python_seesion_1_variables.ipynb)  
+2. [Data Types]  
+3. [Type Casting]  
+4. [Packages] 
+5. [Print Statement]  
+6. [Input and Eval]  
+7. [Q&A / Practice Problems]  
+8. [If-Else Statements] 
+9. [Try and Except (Error Handling)] 
+10. [Functions]  
+11. [For Loop]  
+12. [While Loop] 
+13. [Strings]  
+14. [Lists]  
+15. [Dictionaries]  
+16. [Lambda Functions] 
+17. [File Handling]
 
 ---
 
