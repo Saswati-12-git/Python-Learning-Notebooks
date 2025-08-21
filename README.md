@@ -10,7 +10,7 @@ Each chapter is organized into a separate notebook with examples, explanations, 
 1. [Variables](python_seesion_1_variables.ipynb)  
 2. [Data Types](python_session_2_Datatypes.ipynb)  
 3. [Type Casting](python_session_3_Typecasting.ipynb)
-4. [Packages] 
+4. [Packages](python_session_3_Typecasting.ipynb)
 5. [Print Statement]  
 6. [Input and Eval]  
 7. [Q&A / Practice Problems]  
