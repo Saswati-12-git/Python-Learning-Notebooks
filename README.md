@@ -15,7 +15,7 @@ Each chapter is organized into a separate notebook with examples, explanations, 
 6. [Input and Eval](python_session_6_input_eval.ipynb)  
 7. [Q&A / Practice Problems](python_session_7_Q_&_A.ipynb) 
 8. [If-Else Statements](python_session_8_if-else.ipynb)
-9. [Try and Except (Error Handling)] 
+9. [Try and Except (Error Handling)](python_session_9try_and_except.ipynb)
 10. [Functions]  
 11. [For Loop]  
 12. [While Loop] 
