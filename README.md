@@ -13,7 +13,7 @@ Each chapter is organized into a separate notebook with examples, explanations, 
 4. [Packages](python_session_3_Typecasting.ipynb)
 5. [Print Statement](python_session_5_Print.ipynb)  
 6. [Input and Eval](python_session_6_input_eval.ipynb)  
-7. [Q&A / Practice Problems]  
+7. [Q&A / Practice Problems](python_session_7_Q_&_A.ipynb) 
 8. [If-Else Statements] 
 9. [Try and Except (Error Handling)] 
 10. [Functions]  
