@@ -17,7 +17,7 @@ Each chapter is organized into a separate notebook with examples, explanations, 
 8. [If-Else Statements](python_session_8_if-else.ipynb)
 9. [Try and Except (Error Handling)](python_session_9try_and_except.ipynb)
 10. [Functions](python_session_10_function.ipynb) 
-11. [For Loop]  
+11. [For Loop](python_session_11_for_loop.ipynb)  
 12. [While Loop] 
 13. [Strings]  
 14. [Lists]  
