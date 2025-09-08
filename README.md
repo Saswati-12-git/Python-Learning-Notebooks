@@ -22,7 +22,7 @@ Each chapter is organized into a separate notebook with examples, explanations, 
 13. [Strings](python_session_13_Strings.ipynb) 
 14. [Lists](python_session_13_List.ipynb) 
 15. [Dictionaries](Python_session_15_Dictionary.ipynb) 
-16. [Lambda Functions] 
+16. [Lambda Functions](python_session_16_Lambdafunction.ipynb)
 17. [File Handling]
 
 ---
