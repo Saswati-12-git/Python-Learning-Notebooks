@@ -21,7 +21,7 @@ Each chapter is organized into a separate notebook with examples, explanations, 
 12. [While Loop](python_session_12_whileloop.ipynb)
 13. [Strings](python_session_13_Strings.ipynb) 
 14. [Lists](python_session_13_List.ipynb) 
-15. [Dictionaries]  
+15. [Dictionaries](Python_session_15_Dictionary.ipynb) 
 16. [Lambda Functions] 
 17. [File Handling]
 
