@@ -18,7 +18,7 @@ Each chapter is organized into a separate notebook with examples, explanations, 
 9. [Try and Except (Error Handling)](python_session_9try_and_except.ipynb)
 10. [Functions](python_session_10_function.ipynb) 
 11. [For Loop](python_session_11_for_loop.ipynb)  
-12. [While Loop] 
+12. [While Loop](python_session_12_whileloop.ipynb)
 13. [Strings]  
 14. [Lists]  
 15. [Dictionaries]  
